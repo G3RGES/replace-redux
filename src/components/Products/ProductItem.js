@@ -7,7 +7,7 @@ import "./ProductItem.css";
 
 const ProductItem = React.memo((props) => {
   // const toggleFav = useContext(ProductsContext).toggleFav;
-  console.log("RENDERING");
+  // console.log("RENDERING"); //*TESTING*
 
   const dispatch = useStore(false)[1];
 
