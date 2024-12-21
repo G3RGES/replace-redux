@@ -1,4 +1,5 @@
-import React, { useContext } from "react";
+// import React, { useContext } from "react";
+import React from "react";
 
 import FavoriteItem from "../components/Favorites/FavoriteItem";
 // import { ProductsContext } from '../context/products-context';
